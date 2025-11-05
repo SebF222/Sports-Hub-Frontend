@@ -1,0 +1,41 @@
+ Idea 
+    Sports Hub
+
+    Backend
+        - CRUD
+            - Sign Up & Sign in
+            - Update for profile 
+            - Delete account
+        - Start up page
+            - Add your favorite Teams
+        - Home view 
+            Shows your favorite team first then all the games currently going on and the games that happened already 
+                - you will have the ability to view your favorite Teams
+                - update your favortie teams , you bandwagon
+                    - which will give you the ability to either add new teams or remove teams 
+                - will also display 
+                    - Player stats 
+                    - Team stats 
+                    - Current games (live scores)
+                    - Upcoming Games 
+                    - Schedules
+                    - Season schedules for favorites Teams
+                    - Results of recent games and current game
+                    - Results of favorite teams
+        - profile View 
+            Shows profile for user
+                - users username 
+                - how long theyve been registered for 
+                - favorite sports teams first one if theres multiple 
+
+        on top of all of these pages will have the date and time 
+
+
+
+
+    Front-End:
+
+    - add routing network
+    - create placeholder views ( Home page, login page, profile page --> favorites pages CRUD, and start up favorites pages, stats page)
+    all needs its own views
+    -authContext and Login 
