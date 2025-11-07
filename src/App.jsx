@@ -8,6 +8,7 @@ import ManageFavoritesView from "./views/ManageFavoritesView"
 import SetupView from "./views/SetupView"
 import Navbar from "./components/Navbar/Navbar"
 
+
 function App() {
 
   return (
